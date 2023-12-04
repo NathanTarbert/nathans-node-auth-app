@@ -1,6 +1,7 @@
 # Node.js Example App with SSO & Directory Sync
 
-![image](https://github.com/NathanTarbert/nathans-node-auth-app/assets/66887028/9b6fbf34-4094-4c63-91f1-2ea9de6dfd10)
+![workos-app](https://github.com/NathanTarbert/nathans-node-auth-app/assets/66887028/a353505d-9a01-44c4-9939-d432b513c3bb)
+
 
 ## Clone the repo
 ```bash
