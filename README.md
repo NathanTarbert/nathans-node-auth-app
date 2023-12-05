@@ -8,7 +8,7 @@
 $ https://github.com/NathanTarbert/nathans-node-auth-app.git
   ```
 
-Change directories into the app and install dependencies
+Change directories into the app
 
 ```sh
 $ cd nathans-node-auth-app
