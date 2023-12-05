@@ -1,4 +1,4 @@
-# Node.js Example App with SSO & Directory Sync
+## Node.js Example App with SSO & Directory Sync
 
 ![workos-app](https://github.com/NathanTarbert/nathans-node-auth-app/assets/66887028/a353505d-9a01-44c4-9939-d432b513c3bb)
 
@@ -11,20 +11,22 @@ $ https://github.com/NathanTarbert/nathans-node-auth-app.git
 Change directories into the app and install dependencies
 
 ```sh
-$ cd nathans-node-auth-app && npm install
+$ cd nathans-node-auth-app
 ```
 
 
-This is an example application which demonstrates the process of authenticating users via SSO and Directory Sync.
-The two services we are using are WorkOS and Okta.
+This is a monorepo which showcases authenticating users via SSO and Directory Sync.
+The two services we are using are WorkOS as the service provider and Okta as the identity provider.
 
-## Testing the Integration
+## Running the application
 
-We will run two servers with one command.
+We will install all dependencies in each app and run two servers with one command.
 
 ```sh
 $ npm run start:both
 ```
+
+What you will see in the terminal is 
 
 - http://localhost:8000 as the primary server to authenticate the SSO login
 
