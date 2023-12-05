@@ -1,5 +1,8 @@
 ## Node.js Example App with SSO & Directory Sync
 
+This is a monorepo which showcases authenticating users via SSO and Directory Sync.
+The two services we are using are WorkOS as the service provider and Okta as the identity provider.
+
 ![workos-app](https://github.com/NathanTarbert/nathans-node-auth-app/assets/66887028/a353505d-9a01-44c4-9939-d432b513c3bb)
 
 
@@ -14,9 +17,8 @@ Change directories into the app
 $ cd nathans-node-auth-app
 ```
 
-
-This is a monorepo which showcases authenticating users via SSO and Directory Sync.
-The two services we are using are WorkOS as the service provider and Okta as the identity provider.
+## ENVs
+copy the `example.env` to `.env` in each folder and fill in the values.
 
 ## Running the application
 
