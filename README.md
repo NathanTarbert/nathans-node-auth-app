@@ -37,4 +37,4 @@ Navigate to `localhost:8000` to begin loggin in.
 
 ## Need help?
 
-Reach out to me on [Twitter](https://twitter.com/nathan_tarbert) if you have any trouble logging in.
+Reach out to me on [Twitter](https://twitter.com/nathan_tarbert) if you have any questions.
