@@ -3,7 +3,7 @@
 This is a monorepo which showcases authenticating users via SSO and Directory Sync.
 The two services we are using are WorkOS as the service provider and Okta as the identity provider.
 
-![workos-app](https://github.com/NathanTarbert/nathans-node-auth-app/assets/66887028/a353505d-9a01-44c4-9939-d432b513c3bb)
+![workos-demo](https://github.com/NathanTarbert/nathans-node-auth-app/assets/66887028/1bdc8890-44b9-446b-a29f-e0c5ff8f14be)
 
 
 ## Clone the repo
